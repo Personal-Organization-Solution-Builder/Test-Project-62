@@ -4,6 +4,10 @@
     <layoutAssignments>
         <layout>TestObj__c-TestObj Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>TestObj__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
